@@ -3,5 +3,7 @@ packages:
   - "packages/*"
   # 所有子模块可以共用的公开组件
   - "components/**"
+  # 所有开发的子模块
+  - "modules/*"
   # 过滤测试
   - "!**/test/**"
